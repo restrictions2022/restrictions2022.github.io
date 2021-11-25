@@ -12,3 +12,7 @@ Voici quelques éléments qui vous aideront à contribuer efficacement au projet
 * Le format HTML des sources est le suivant `<a href="https://bidule">1</a>, <a href="https://truc">2</a>` .
 * Si vous modifiez le code HTML directement, exprimez les position des candidats de la manière courte et précise. Par exemple, en matière de pass sanitaire `abrogation` , `maintien` ou `pérénisation` sont de bons contenus des cases du tableau. 
 * Merci de respecter l’indentation du code HTML. 
+
+# Licence
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />Ce projet est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Licence Creative Commons Attribution - Pas de Modification 4.0 International</a>.
